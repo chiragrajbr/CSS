@@ -1,0 +1,14 @@
+/*about background color ,image,size,border */
+.design{
+    background-color:darkgray;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    border-style:double;
+    border-color: blue;
+    border-radius: 50px;
+    border-width:10px;
+    
+    
+}
+    

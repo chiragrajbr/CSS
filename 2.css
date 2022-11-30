@@ -1,0 +1,5 @@
+/* margin properties -it creats space in surrounding the tag*/
+.margin{
+    margin:100px 20px 20px 500px;
+    padding: 50px;
+}
