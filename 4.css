@@ -1,0 +1,21 @@
+.p{
+    outline: dotted;
+    outline-color: aqua;
+    font-size: 30px;
+    outline-width:thick;
+}
+.bold{
+    
+        outline: dashed;
+        outline-color: blue;
+        font-size: 30px;
+        outline-width: thin;
+    
+}
+
+.div{
+    outline: double;
+    outline-width: medium;
+    outline-color: blueviolet;
+    font-size: 30px;
+}
