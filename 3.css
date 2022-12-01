@@ -1,0 +1,11 @@
+/*Content - The content of the box, where text and images appear
+padding-it gives space between content and border
+Border - A border that goes around the padding and content
+Margin - it creats space between border and outscreen
+*/
+.name{
+    
+    border: 15px solid green;
+    padding: 15px;
+    margin: 15px;
+}
